@@ -16,8 +16,8 @@
 <br>
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/akul-tyagi-242979277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/akul-tyagi-242979277" height="30" width="40" /></a> &nbsp;
-<a href="https://instagram.com/https://www.instagram.com/akulltyagi_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/akulltyagi_/" height="30" width="40" /></a>
+<a href="/www.linkedin.com/in/akul-tyagi-242979277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/akul-tyagi-242979277" height="30" width="40" /></a> &nbsp;
+<a href="https://www.instagram.com/akulltyagi_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/akulltyagi_/" height="30" width="40" /></a>
 </p>
 
 <br>
