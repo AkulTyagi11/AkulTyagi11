@@ -3,9 +3,9 @@
 <h3 align="center">I’m a third-year Computer Science and Engineering student with a drive for learning and exploring new technologies and projects that solve real-life problems.</h3>
 <br>
 
-- I am currently working on **my Internship project**
+- I have completed **my Internship project** of Renewl Propensity Prediction using ML
 
-- I am currently learning about **AI / ML and Cybersecurity**
+- I am currently learning more on **AI / ML and Cybersecurity**
 
 - I am looking to collaborate on **WebDev Projects**
 
