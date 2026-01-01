@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a third-year Computer Science and Engineering student with a drive for learning and exploring new technologies and projects that solve real-life problems.<br><br><br>• I have completed my Internship project of Renewl Propensity Prediction using ML<br>• I am currently learning more on AI / ML and Cybersecurity<br>• I am looking to collaborate on Projects
+I’m a third-year Computer Science and Engineering student with a drive for learning and exploring new technologies and projects that solve real-life problems.<br><br>
 
 
 ## 🌐 Socials:
