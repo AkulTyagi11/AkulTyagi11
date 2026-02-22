@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="profile-card-fixed.svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-card-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile-card-light.svg">
+    <img src="profile-card-dark.svg">
+  </picture>
 </p>
 
 ***
