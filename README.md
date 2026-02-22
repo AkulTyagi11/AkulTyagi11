@@ -9,4 +9,4 @@
 ***
 
 # GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=AkulTyagi11&theme=highcontrast&border_radius=2&short_numbers=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=AkulTyagi11&theme=highcontrast&border_radius=2&short_numbers=true)](https://git.io/streak-stats)
